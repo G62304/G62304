@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @G62304
+- 👀 I’m interested in Machine Learning and Databases
+- 🌱 I’m currently learning Python, R, and Java
+- 📫 gusrhee@gmail.com (719) 661-1013
